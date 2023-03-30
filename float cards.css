@@ -16,7 +16,6 @@ h1{
 h3{
     font-family: 'Permanent Marker', cursive;
 }
-
 .clearfix::after{
 content:"";
 display:table;
@@ -29,19 +28,13 @@ clear:both;
     padding: 1px;
     width: 25%;
     float: left;
+    
 }
 
 img{
-    width: 71px;
+    width: 73.5px;
     float:left;
     margin-right: 10px;
-    
-}
-.sezione{
-    top:50%;
-    left:50%;
-    transform:translate(-50%,-50%);
-    
 }
 .container{
     width: 1000px;

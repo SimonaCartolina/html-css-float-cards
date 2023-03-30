@@ -13,6 +13,9 @@ h1{
     color: rgb(181, 48, 90);
     font-family: 'Permanent Marker', cursive;
 }
+h3{
+    font-family: 'Permanent Marker', cursive;
+}
 
 .clearfix::after{
 content:"";

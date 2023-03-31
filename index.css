@@ -24,7 +24,7 @@ content:"";
 display:table;
 clear:both;
 }
-.clearfix{
+.card{
     color:white;
     background-color: rgba(0, 0, 0, 0.879);
     margin: 20px;

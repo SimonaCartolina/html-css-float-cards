@@ -31,7 +31,7 @@ clear:both;
     width: 29.333%;
     float: left;
     font-size: 14px;
-    box-shadow: 8px 8px lightgray;
+    box-shadow: 8px 8px 5px lightgray;
 }
 
 img{
